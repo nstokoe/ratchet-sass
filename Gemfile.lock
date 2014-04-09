@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    ratchet-sass (2.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.5)
+  rake
+  ratchet-sass!
