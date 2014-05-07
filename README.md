@@ -43,6 +43,6 @@ Finally to get the fonts to load right, you need to add the following to your ap
     config.assets.paths << Rails.root.join('app', 'assets', 'fonts')
 
     # Precompile additional assets
-    config.assets.precompile += %w( .svg .eot .woff .ttf )
+    config.assets.precompile += %w( *.svg *.eot *.woff *.ttf )
 
 For more information on Ratchet check out their [docs](http://goratchet.com/getting-started/).
