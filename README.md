@@ -21,7 +21,7 @@ Or install it yourself as:
 First you need to add the .js file to your project (via application.js for example) to include all the js components:
 
     //= ...
-    //= require rachet
+    //= require ratchet
     //=
 
 Or you can add individual components:
